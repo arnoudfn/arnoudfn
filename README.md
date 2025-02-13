@@ -1,6 +1,6 @@
 ## Olá, sou Arnoud Ferreira!
 
-- 🌱 Estudando JavaScript, React, Angular, HTML, CSS, SASS e Python
+- 🌱 Estudando JavaScript, TypeScript, React, Angular, HTML, CSS, SASS e Python
 - 📫 Contate-me no e-mail: arnoudfn@gmail.com
 - 😄 Pronouns: Ele/Dele
   
